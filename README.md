@@ -25,7 +25,7 @@ Some of the key plots are shown below:
 <img width="803" height="417" alt="image" src="https://github.com/user-attachments/assets/35302cce-489c-4a28-a35f-06ead6d8ec23" />
 
 See the code behind the project here:
-[Vue](https://github.com/jpalin/Referee-decisions-analysis)
+[Referee Decisions Analysis](https://github.com/jpalin/Referee-decisions-analysis)
 
 ## Image classification of aerial oceanic imagery (using open source images, Python programming) 
 The goal of this project was to classify areial oceanic imagery into three classes: Ocean only, Ships present and Unknown Floating Objects.
