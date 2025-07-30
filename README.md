@@ -19,11 +19,10 @@ Q4) Does a referee’s game management change after the first card?
 
 Some of the key plots are shown below:
 
-<img width="829" height="487" alt="image" src="https://github.com/user-attachments/assets/c303d48c-db0f-4586-8ca4-10328f2305c8" />
-<img width="803" height="457" alt="image" src="https://github.com/user-attachments/assets/684230b5-28d5-4454-ab55-6fc2d90e440b" />
-<img width="790" height="532" alt="image" src="https://github.com/user-attachments/assets/caeb1725-e9f5-4aa6-9335-7d6721dda254" />
-<img width="804" height="501" alt="image" src="https://github.com/user-attachments/assets/cbf13523-b0f6-4dbd-a3a1-f61538302d6e" />
-<img width="829" height="416" alt="image" src="https://github.com/user-attachments/assets/57f57ba9-5c6f-4348-b485-e024ec1eb917" />
+<img width="862" height="484" alt="image" src="https://github.com/user-attachments/assets/caeba6fb-2dc6-47a5-8691-d3c579035b10" />
+<img width="819" height="455" alt="image" src="https://github.com/user-attachments/assets/71b71fa1-8daf-4c52-a5ab-d3cd9f1b1ad5" />
+<img width="798" height="501" alt="image" src="https://github.com/user-attachments/assets/7ccaa773-d0e4-4ab1-8f18-4cfb61c8f9f6" />
+<img width="803" height="417" alt="image" src="https://github.com/user-attachments/assets/35302cce-489c-4a28-a35f-06ead6d8ec23" />
 
 ## Image classification of aerial oceanic imagery (using open source images, Python programming) 
 The goal of this project was to classify areial oceanic imagery into three classes: Ocean only, Ships present and Unknown Floating Objects.
