@@ -24,6 +24,8 @@ Some of the key plots are shown below:
 <img width="798" height="501" alt="image" src="https://github.com/user-attachments/assets/7ccaa773-d0e4-4ab1-8f18-4cfb61c8f9f6" />
 <img width="803" height="417" alt="image" src="https://github.com/user-attachments/assets/35302cce-489c-4a28-a35f-06ead6d8ec23" />
 
+[Vue](https://github.com/vuejs/vue)
+
 ## Image classification of aerial oceanic imagery (using open source images, Python programming) 
 The goal of this project was to classify areial oceanic imagery into three classes: Ocean only, Ships present and Unknown Floating Objects.
 The custom convolutional neural network classifier designed could be used in search/retrival operatations after air disasters over open ocean.
