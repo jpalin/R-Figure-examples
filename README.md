@@ -38,7 +38,8 @@ Some of the key plots to evaluate performance of the best performing model are s
 <img width="503" height="363" alt="image" src="https://github.com/user-attachments/assets/b33e005e-ce46-40ae-a8e9-87a1932b3b08" />
 <img width="441" height="331" alt="image" src="https://github.com/user-attachments/assets/212565c7-6db3-4213-bba7-82dc5293480a" />
 
-
+See the code behind the project here:
+[Image classification of aerial oceanic imagery](https://github.com/jpalin/Aerial-imagery-classification)
 
 
 
